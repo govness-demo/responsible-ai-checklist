@@ -1,0 +1,18 @@
+# Fictional demo block: see README.md.
+schema_version: 1
+id: "open-civic-labs.responsible-ai-checklist"
+name: "Responsible AI checklist for public agents"
+type: "policy"
+version: "1.1.0"
+summary: "A short checklist an administration runs before putting an AI agent in front of the public."
+description: "Twelve questions on purpose, data, human oversight, accessibility and redress, each with what good evidence looks like."
+publisher:
+  environment: "open-civic-labs"
+  body: "Open Civic Labs"
+languages: ["en", "es"]
+license: "CC-BY-4.0"
+interfaces:
+  protocol: "other"
+links:
+  repo: "https://github.com/govness-demo/responsible-ai-checklist"
+domains: ["ai-governance"]
